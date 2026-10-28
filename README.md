@@ -1,6 +1,15 @@
 ﻿<div align="center">
 
+<a href="https://github.com/akashvenkey/Business-Analytics.3">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=78350F,D97706,FBBF24&height=220&section=header&text=Superstore%20BI%20Analytics&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Enterprise%20Performance%20Dashboards%2C%20DAX%20Measures%20%26%20KPI%20Diagnostics&descSize=16&descAlignY=60&descAlign=50" alt="Superstore BI Analytics Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/Business-Analytics.3](https://github.com/akashvenkey/Business-Analytics.3)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FBusiness-Analytics.3-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/Business-Analytics.3)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/Business-Analytics.3.git)
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-22C55E?style=for-the-badge)](https://learn.microsoft.com/en-us/dax/)
@@ -161,6 +170,15 @@ Questions, feedback, or suggestions regarding DAX optimizations and dashboard us
 
 <div align="center">
 
+<a href="https://github.com/akashvenkey/Business-Analytics.3">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=78350F,D97706,FBBF24&height=100&section=footer" alt="Footer Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/Business-Analytics.3](https://github.com/akashvenkey/Business-Analytics.3)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FBusiness-Analytics.3-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/Business-Analytics.3)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/Business-Analytics.3.git)
 
 </div>
